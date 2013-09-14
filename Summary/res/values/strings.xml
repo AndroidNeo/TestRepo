@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Анкета</string>
+    <string name="action_settings">Настройки</string>
+    <string name="name_hint">ФИО</string>
+    <string name="birthday_hint">Дата рождения</string>
+    <string name="setting_hint">Установить</string>
+    <string name="sex_hint">Пол</string>
+    <string-array name="Sex">
+        <item >муж.</item>
+        <item >жен.</item>
+    </string-array>
+    <string name="job_hint">Должность</string>
+    <string name="salary_hint">Зарплата</string>
+    <string name="phone_hint">Телефон</string>
+    <string name="email_hint">E-mail</string>
+    <string name="btn_send">Отправить</string>
+    <string name="answer_hint">Письмо соискателю</string>
+    <string name="btn_answer">Отправить ответ</string>
+    <string name="summary_data_hint">Данные анкеты</string>
+
+</resources>
